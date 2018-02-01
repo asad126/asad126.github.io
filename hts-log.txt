@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 30 Jan 2018 19:26:13 at http://mhbthemes.com/demos/rx/rx/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://mhbthemes.com/demos/rx/rx/index.html -O1 "C:\Users\HP\Desktop\asadportfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:27:39	Warning: 	Retry after error -4 (No data (connection closed)) at link mhbthemes.com/demos/rx/rx/assets/img/work/6.jpg (from mhbthemes.com/demos/rx/rx/index.html)
+19:27:39	Warning: 	Retry after error -4 (No data (connection closed)) at link mhbthemes.com/demos/rx/rx/single-blog.html (from mhbthemes.com/demos/rx/rx/index.html)
+19:27:41	Warning: 	Retry after error -4 (No data (connection closed)) at link mhbthemes.com/demos/rx/rx/assets/img/blog/blog3.jpg (from mhbthemes.com/demos/rx/rx/index.html)
+19:27:50	Warning: 	Retry after error -4 (No data (connection closed)) at link mhbthemes.com/demos/rx/rx/assets/js/typed.js (from mhbthemes.com/demos/rx/rx/index.html)
+19:27:51	Warning: 	Retry after error -4 (No data (connection closed)) at link mhbthemes.com/demos/rx/rx/assets/js/jquery.waypoints.min.js (from mhbthemes.com/demos/rx/rx/index.html)
+19:27:52	Warning: 	Retry after error -4 (No data (connection closed)) at link mhbthemes.com/demos/rx/rx/assets/js/validator.min.js (from mhbthemes.com/demos/rx/rx/index.html)
+19:27:52	Warning: 	Retry after error -4 (No data (connection closed)) at link mhbthemes.com/demos/rx/rx/assets/js/jquery.mixitup.js (from mhbthemes.com/demos/rx/rx/index.html)
+19:27:53	Error: 	"Not Found" (404) at link mhbthemes.com/demos/rx/rx/assets/css/owl.video.play.png (from mhbthemes.com/demos/rx/rx/assets/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 43 seconds : 56 links scanned, 47 files written (2802669 bytes overall) [2061863 bytes received at 20018 bytes/sec], 1111338 bytes transferred using HTTP compression in 24 files, ratio 31%, 3.7 requests per connection
+(1 errors, 7 warnings, 0 messages)
